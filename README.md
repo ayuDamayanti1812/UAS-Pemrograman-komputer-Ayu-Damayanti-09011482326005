@@ -3,3 +3,4 @@ Nama         : Ayu Damayanti
 NIM          : 09011482326005
 Mata Kuliah  : Pemrograman Komputer 
 Kelas        : Sistem Komputer Profesional 
+Ujian        : Pemrograman Komputer 
